@@ -96,7 +96,7 @@ export function AppSidebar() {
             <p className="text-xs font-medium text-foreground mb-1">
 </p>
             <p className="text-[10px] text-muted-foreground leading-relaxed">
-              AI-powered prototype for business intelligence.
+              {"\n"}
             </p>
           </div>
         </div>}
