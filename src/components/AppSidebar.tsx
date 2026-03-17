@@ -90,16 +90,16 @@ export function AppSidebar() {
         </SidebarGroup>
       </SidebarContent>
 
-      {!collapsed &&
-      <div className="p-3 mt-auto border-t border-sidebar-border">
-          
+      {!collapsed
 
 
 
 
 
-        
-        </div>}
+
+
+
+      }
     </Sidebar>);
 
 }

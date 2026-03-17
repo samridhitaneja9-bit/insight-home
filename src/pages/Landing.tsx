@@ -167,8 +167,8 @@ export default function Landing() {
 
       {/* Footer */}
       <footer className="border-t border-border py-6 text-center">
-        <p className="text-xs text-muted-foreground">
-          Built with ❤️ for Hackathon 2025 · InsightAI — AI Powered Business Management System
+        <p className="text-xs text-muted-foreground"> InsightAI — AI Powered Business Management System
+
         </p>
       </footer>
     </div>);
