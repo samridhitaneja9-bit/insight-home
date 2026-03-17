@@ -2,7 +2,7 @@ import { useNavigate } from "react-router-dom";
 import { Button } from "@/components/ui/button";
 import {
   BarChart3, Brain, Sparkles, TrendingUp, ShieldCheck,
-  FileText, MessageSquare, ArrowRight, Zap, Users, LineChart
+  FileText, MessageSquare, ArrowRight, Zap, LayoutDashboard
 } from "lucide-react";
 
 const features = [
