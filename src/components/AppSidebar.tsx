@@ -92,13 +92,13 @@ export function AppSidebar() {
 
       {!collapsed &&
       <div className="p-3 mt-auto border-t border-sidebar-border">
-          <div className="rounded-lg bg-gradient-primary border border-primary/20 p-3">
-            <p className="text-xs font-medium text-foreground mb-1">
-</p>
-            <p className="text-[10px] text-muted-foreground leading-relaxed">
-              {"\n"}
-            </p>
-          </div>
+          
+
+
+
+
+
+        
         </div>}
     </Sidebar>);
 
